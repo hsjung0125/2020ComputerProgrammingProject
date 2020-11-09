@@ -1,1 +1,3 @@
-# 2020ComputerProgrammingProject
+# Programming Art
+
+This project is craeting the simple pattern art design.  
