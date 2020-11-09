@@ -4,4 +4,4 @@ This project is craeting the simple pattern art design.
 
 ## Documentation
 1. Design the simple pattern art
-Research Note
+2. Research Note
