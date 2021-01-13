@@ -1,7 +1,6 @@
 ![Logo](https://github.com/hsjung0125/2020ComputerProgrammingProject/blob/main/Logo.png?raw=true)
 
-This project is craeting the simple pattern art design.  
+This project is craeting the school plan & regular plan list on planner
 
 ## Documentation
-1. Design the simple pattern art
-2. Research Note
+1. Create the planner
