@@ -3,4 +3,4 @@
 This project is craeting the school plan & regular plan list on planner
 
 ## Documentation
-1. Create the planner
+1. Airplane Reservation
